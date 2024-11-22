@@ -11,4 +11,7 @@ Currently, two official plugins are available:
 
 There are mainly two components SearchBar component and WeatherCard component
 
+1. SearchBar Component: To Search for a specific city or country
+2. WeatherCard Component: To Display the details of a country or city.
+
 I have used vite to congfig the application
